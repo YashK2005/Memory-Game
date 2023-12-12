@@ -74,7 +74,7 @@ class PlayController: UIViewController {
                     buttons.removeAll()
                     matches = matches + 1 //increases number of matches by 1
                     if matches < 11 && mode == "Programming" {
-                       // performSegue(withIdentifier: "MemoryToLearning", sender: self) //goes to learning screen if game isn't over yet and the user selected programming mode
+                        performSegue(withIdentifier: "MemoryToLearning", sender: self) //goes to learning screen if game isn't over yet and the user selected programming mode
                     } else if matches == 11 {
                         performSegue(withIdentifier: "MemoryToWin", sender: self)
                         //goes to win screen if game is complete
