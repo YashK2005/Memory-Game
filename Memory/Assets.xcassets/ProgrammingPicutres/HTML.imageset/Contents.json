@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "html5-01_icon-icons.com_50875.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "html5-01_icon-icons.com_50875-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "html5-01_icon-icons.com_50875-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

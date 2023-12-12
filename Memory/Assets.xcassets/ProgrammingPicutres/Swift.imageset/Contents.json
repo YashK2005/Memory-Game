@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "swift_original_logo_icon_146332.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "swift_original_logo_icon_146332-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "swift_original_logo_icon_146332-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
